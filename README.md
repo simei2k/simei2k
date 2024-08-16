@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simei2k
 - 👀 I'm interested in Cyber!
 - 🌱 Chase dreams not people 
-- 💞️ Check out my personal website (I'm still updating it)
+- 💞️ Check out my personal website (I'm still updating it) @https://simei2k.github.io/simyee.github.io/
 - 📫 Connect with me on LinkedIn!
 
 <!---
