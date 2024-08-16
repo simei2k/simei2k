@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @simei2k
-- 👀 I’m interested in programming and having fun
-- 🌱 I’m currently learning how to do everything boohoo :")
-- 💞️ I’m looking to collaborate on not sureeee
-- 📫 Slide into my dms!!
+- 👀 I'm interested in Cyber!
+- 🌱 Chase dreams not people 
+- 💞️ Check out my personal website (I'm still updating it)
+- 📫 Connect with me on LinkedIn!
 
 <!---
 simei2k/simei2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
