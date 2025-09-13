@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @simei2k
 - 👀 I'm interested in Cyber!
-- 🌱 Chase dreams not people 
-- 💞️ Teehee
-- 📫 Connect with me on LinkedIn!
+- 🌱 Please don't look at the repos; i don't clean them up and 90% is trash
 
 <!---
 simei2k/simei2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
